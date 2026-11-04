@@ -19,7 +19,7 @@ These pages present the intended service journey. This source repository does no
 Use Python 3 to serve the files:
 
 ```sh
-git clone https://github.com/anushaxrama/toniPR.git
+git clone https://github.com/anusharama100/toniPR.git
 cd toniPR
 python3 -m http.server 8080 --bind 127.0.0.1
 ```
