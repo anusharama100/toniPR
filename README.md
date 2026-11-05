@@ -46,3 +46,7 @@ The interface uses a shared visual language across the marketing and product pag
 ## Scope
 
 This repository demonstrates the frontend and interaction design. It does not verify generated-content quality, account security, checkout completion, or real customer outcomes. Those require the corresponding application services and separate testing.
+
+## Latest local check
+
+See [local verification](docs/LOCAL_VERIFICATION.md) for the November 5, 2026 setup, runtime checks, and remaining test boundaries.
