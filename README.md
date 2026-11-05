@@ -1,6 +1,6 @@
 # ToniPR
 
-A static website and product-interface prototype for turning an interview into reusable marketing content. The experience connects product discovery, onboarding, interview preparation, and content review so a visitor can understand how one conversation could become several publishable formats.
+A website and product-interface prototype for turning an interview into reusable marketing content. The public site explains the service; the product screens follow onboarding, interview preparation, and reviewing posts and articles.
 
 The repository includes both the public-facing website and signed-in product screens. It is implemented with HTML, CSS, and JavaScript rather than a frontend framework.
 
